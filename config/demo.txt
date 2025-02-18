@@ -4,7 +4,6 @@ CCTV-2
 CCTV-3
 CCTV-4
 CCTV-5
-CCTV-5+
 CCTV-6
 CCTV-7
 CCTV-8
@@ -17,6 +16,7 @@ CCTV-14
 CCTV-15
 CCTV-16
 CCTV-17
+CCTV-5+
 CCTV-4k
 CGTN阿语
 CGTN俄语
@@ -560,17 +560,6 @@ IPTV经典电影
 龙祥电影
 东森洋片
 东森超视
-
-咪咕,#genre#
-咪咕直播1
-咪咕直播2
-咪咕直播3
-咪咕直播4
-咪咕直播5
-
-4K,#genre#
-纯享4K
-华数4K
 
 剧场,#genre#
 神话
