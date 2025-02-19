@@ -705,9 +705,9 @@ def write_channel_to_file(data, ipv6=False, callback=None):
                 "url"
             )
             if config.update_time_position == "top":
-                content = f"🕘️更新时间,#genre#\n{get_datetime_now()},{update_time_url}\n\n{content}"
+                content = f"更新,#genre#\n{get_datetime_now()},{update_time_url}\n\n{content}"
             else:
-                content += f"\n\n🕘️更新时间,#genre#\n{get_datetime_now()},{update_time_url}"
+                content += f"\n\n更新,#genre#\n{get_datetime_now()},{update_time_url}"
         with open(path, "w", encoding="utf-8") as f:
             f.write(content)
     except Exception as e:
