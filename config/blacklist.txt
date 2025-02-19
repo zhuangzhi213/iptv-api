@@ -9,3 +9,8 @@ hc73k3dhwo5gfkt.wcetv.com
 stream1.freetv.fun
 zw9999.cnstream.top
 zsntlqj.xicp.net
+
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
+https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
